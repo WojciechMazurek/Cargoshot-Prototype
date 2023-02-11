@@ -23,6 +23,6 @@ And add your Apple ID under “Team”.
 ## Running the app on your Device
 Because the app requires the use of the camera, it has to be run on a physical device to use its functionality; not the simulator. To do this, first make sure your iPhone or iPad has [Developer Mode](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device) enabled. Once you’ve done that, your device will appear as an option in Xcode at the top, select your device instead of the default one.
 
-![Change Device](https://github.com/WojciechMazurek/Cargoshot-Prototype/blob/main/imgs/Screenshot%202023-02-11%20at%2011.41.08%20AM?raw=true)
+![Change Device](https://github.com/WojciechMazurek/Cargoshot-Prototype/blob/main/imgs/Screenshot%202023-02-11%20at%2011.41.08%20AM.png?raw=true)
 
 Press the play button at the top and you should see build successfull
