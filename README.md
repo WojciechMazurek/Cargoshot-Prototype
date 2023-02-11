@@ -1,6 +1,6 @@
 # roboflow-ios-sample
 
-You may or may not need to do this stap, but just to be safe, have [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) installed, as well as [Cocoapods](Cocoapods). You can install Cocoapods by running either `sudo gem install cocoapods` (if you have Ruby installed) or `brew install cocoapods` (if you have the [Homebrew](https://brew.sh/) package manager installed). (I personally prefer using brew, as it was much quicker and simpler)
+You may or may not need to do this step, but just to be safe, have [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) installed, as well as [Cocoapods](Cocoapods). You can install Cocoapods by running either `sudo gem install cocoapods` (if you have Ruby installed) or `brew install cocoapods` (if you have the [Homebrew](https://brew.sh/) package manager installed). (I personally prefer using brew, as it was much quicker and simpler)
 
 Navigate to `Cargoshot prototype app` directory and run `pod install`. This instals the Roboflow SDK.
 
