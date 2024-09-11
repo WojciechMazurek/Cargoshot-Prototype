@@ -26,3 +26,6 @@ Because the app requires the use of the camera, it has to be run on a physical d
 ![Change Device](https://github.com/WojciechMazurek/Cargoshot-Prototype/blob/main/imgs/Screenshot%202023-02-11%20at%2011.41.08%20AM.png?raw=true)
 
 Press the play button at the top and you should see build successfull
+
+Example of capture that should display.
+![Example](https://github.com/WojciechMazurek/Cargoshot-Prototype/blob/main/imgs/Example%20capture.PNG?raw=true)
