@@ -29,5 +29,3 @@ Press the play button at the top and you should see build successfull
 
 Example of capture that should display.
 ![Example](https://github.com/WojciechMazurek/Cargoshot-Prototype/blob/main/imgs/Example.jpg?raw=true)
-![Example2](https://github.com/WojciechMazurek/Cargoshot-Prototype/blob/main/imgs/Example2.jpg?raw=true)
-
